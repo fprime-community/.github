@@ -11,11 +11,11 @@ This organization contains tutorials, references, third party contributions, mor
 * <a href="https://github.com/fprime-community/fprime-arduino-led-blinker">Arduino Cross-Compilation (LedBlinker) Tutorial</a>: work on Arduino-based microcontrollers.
 
 ### References
-* <a href="https://github.com/fprime-community/fprime-system-reference">F´ System Reference</a>: an example embedded software application that uses the F´ framework, consisting of several subsystems including Payload, Guidance Navigation and Control (GNC), and Communication.
-* <a href="https://github.com/fprime-community/fprime-baremetal-reference">F´ Baremetal Reference</a>: an implementation of F´ on baremetal hardware, specifically for Arduino based microcontrollers.
+* <a href="https://github.com/fprime-community/fprime-system-reference">System Reference</a>: an example embedded software application that uses the F´ framework, consisting of several subsystems including Payload, Guidance Navigation and Control (GNC), and Communication.
+* <a href="https://github.com/fprime-community/fprime-baremetal-reference">Baremetal Reference</a>: an implementation of F´ on baremetal hardware, specifically for Arduino based microcontrollers.
 
 ### Resources
-* <a href="https://github.com/fprime-community/fprime-course-materials">F´ Courses</a>: slide decks and resources used in F´ Workshops and courses.
+* <a href="https://github.com/fprime-community/fprime-course-materials">F´ Course Materials</a>: slide decks and resources used in F´ workshops and courses.
 
 ### Tooling
 * <a href="https://github.com/fprime-community/fprime-tools">F´ Tools</a>: F´ tooling and helpers for F´ development
