@@ -11,14 +11,17 @@ This organization contains tutorials, references, third party contributions, mor
 * <a href="https://github.com/fprime-community/fprime-arduino-led-blinker">Arduino Cross-Compilation (LedBlinker) Tutorial</a>: work on Arduino-based microcontrollers.
 
 ### References
-* <a href="https://github.com/fprime-community/fprime-system-reference">F´ System Reference</a>: This project provides an example embedded software application that uses the F´ framework. The System Reference consists of several subsystems including Payload, Guidance Navigation and Control (GNC), and Communication.
-* <a href="https://github.com/fprime-community/fprime-baremetal-reference">F´ Baremetal Reference</a>: This project is an implementation of F´ on baremetal hardware, specifically for Arduino based microcontrollers.
+* <a href="https://github.com/fprime-community/fprime-system-reference">F´ System Reference</a>: an example embedded software application that uses the F´ framework, consisting of several subsystems including Payload, Guidance Navigation and Control (GNC), and Communication.
+* <a href="https://github.com/fprime-community/fprime-baremetal-reference">F´ Baremetal Reference</a>: an implementation of F´ on baremetal hardware, specifically for Arduino based microcontrollers.
 
 ### Resources
-* <a href="https://github.com/fprime-community/fprime-course-materials">F´ Courses</a>: This repository contains slide decks and resources used in F´ Workshops and courses, and are made available to the community.
+* <a href="https://github.com/fprime-community/fprime-course-materials">F´ Courses</a>: slide decks and resources used in F´ Workshops and courses.
 
 ### Tooling
 * <a href="https://github.com/fprime-community/fprime-tools">F´ Tools</a>: F´ tooling and helpers for F´ development
 * <a href="https://github.com/fprime-community/fprime-gds">F´ GDS</a>: F´ Ground Data System
 * <a href="https://github.com/fprime-community/fpp">FPP</a>: F Prime Prime,  modeling language for F Prime
 * <a href="https://github.com/fprime-community/fprime-visual">F´ Visualizer</a>: Browser-based visualizer for FPP
+
+### Community contributions
+* <a href="https://github.com/fprime-community/vscode-fpp">VSCode Language Support for FPP</a>: Code completion, Go-to Reference, Hover information etc...
