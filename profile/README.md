@@ -13,9 +13,14 @@ This organization contains tutorials, references, third party contributions, mor
 ### References
 * <a href="https://github.com/fprime-community/fprime-system-reference">System Reference</a>: an example embedded software application that uses the F´ framework, consisting of several subsystems including Payload, Guidance Navigation and Control (GNC), and Communication.
 * <a href="https://github.com/fprime-community/fprime-baremetal-reference">Baremetal Reference</a>: an implementation of F´ on baremetal hardware, specifically for Arduino based microcontrollers.
+* <a href="https://github.com/fprime-community/fprime-zephyr-led-blinker">Zephyr RTOS Reference</a>: an implementation of F´ running on [Zephyr RTOS](https://www.zephyrproject.org/)
 
 ### Resources
 * <a href="https://github.com/fprime-community/fprime-course-materials">F´ Course Materials</a>: slide decks and resources used in F´ workshops and courses.
+
+### F´ Packages
+* <a href="https://github.com/fprime-community/fprime-arduino">Arduino package</a>: package for Arduino
+* <a href="https://github.com/fprime-community/fprime-zephyr">Zephyr package</a>: package for Zephyr RTOS
 
 ### Tooling
 * <a href="https://github.com/fprime-community/fprime-tools">F´ Tools</a>: F´ tooling and helpers for F´ development
