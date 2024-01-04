@@ -30,3 +30,4 @@ This organization contains tutorials, references, third party contributions, mor
 
 ### Community contributions
 * <a href="https://github.com/fprime-community/vscode-fpp">VSCode Language Support for FPP</a>: Code completion, Go-to Reference, Hover information etc...
+* <a href="https://github.com/fprime-community/fprime-workspace-image">F´ IIAC Workspace</a>: Immutable-Infrastructure-as-Code (IIAC) workspace image for F´ development
