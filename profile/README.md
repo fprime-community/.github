@@ -30,13 +30,12 @@ This organization contains tutorials, references, third party contributions, mor
 * <a href="https://github.com/nasa/fprime-tools">F´ Tools</a>: F´ tooling and helpers for F´ development
 * <a href="https://github.com/nasa/fprime-gds">F´ GDS</a>: F´ Ground Data System
 * <a href="https://github.com/nasa/fpp">FPP</a>: F Prime Prime,  modeling language for F Prime
-* <a href="https://github.com/fprime-community/fprime-visual">F´ Visualizer</a>: Browser-based visualizer for FPP
 * <a href="https://github.com/fprime-community/vscode-fpp">VSCode Language Support for FPP</a>: Code completion, Go-to Reference, topology visualizer, hover information etc...
+* <a href="https://github.com/fprime-community/fprime-visual">F´ Visualizer</a>: Browser-based visualizer for FPP
 
 ### Community contributions
 * <a href="https://github.com/fprime-community/fprime-yamcs">F Prime YAMCS</a> and [YAMCS Reference Project](https://github.com/fprime-community/fprime-yamcs-reference): a support layer for the [YAMCS](https://yamcs.org/) Ground Data Systems 
 * <a href="https://github.com/fprime-community/fprime-xtce">F Prime XTCE</a>: generate [XTCE dictionaries](https://www.omg.org/xtce/) from an F Prime JSON dicitonary
-* <a href="https://github.com/fprime-community/fprime-workspace-image">F´ IIAC Workspace</a>: Immutable-Infrastructure-as-Code (IIAC) workspace image for F´ development
 * <a href="https://github.com/fprime-community/fprime-featherm4-freertos-reference">F´ FreeRTOS Reference</a>: A reference deployment using FreeRTOS, using the [fprime-freertos package](https://github.com/fprime-community/fprime-freertos)
 
 ### Learning Resources
