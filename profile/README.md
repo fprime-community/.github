@@ -15,6 +15,7 @@ This organization contains tutorials, references, third party contributions, mor
 * <a href="https://github.com/fprime-community/fprime-zephyr-reference">Zephyr RTOS Reference</a>: an implementation of F´ running on [Zephyr RTOS](https://www.zephyrproject.org/)
 * <a href="https://github.com/fprime-community/fprime-vxworks-reference">VxWorks RTOS Reference</a>: an implementation of F´ running on [VxWorks](https://www.windriver.com/products/embedded/vxworks)
 * <a href="https://github.com/fprime-community/fprime-python-reference">F´ Python Reference</a>: an implementation of F´ components written in Python with the [fprime-python](https://github.com/fprime-community/fprime-python) package
+* <a href="https://github.com/fprime-community/fprime-mlpack-reference">F´ mlpack reference project</a>: an implementation of F´ components that use the lightweight [mlpack](https://www.mlpack.org) C++ machine learning library for onboard ML
 
 ### F´ Platform Support Packages
 * <a href="https://github.com/fprime-community/fprime-zephyr">Zephyr Support Package</a>: package for working with Zephyr RTOS
